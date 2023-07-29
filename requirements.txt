@@ -1,0 +1,8 @@
+pandas
+numpy
+sklearn
+matplotlib
+streamlit
+ipykernel
+opendatasets
+altair==4
