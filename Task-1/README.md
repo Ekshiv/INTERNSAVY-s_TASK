@@ -1,6 +1,6 @@
 🎓 Graduate Admission Predictor 🎓
 
-![Graduate Admission Predictor](X:\Internship\INTERNSAVY-s_TASK\Task-1\graduation-ceremony.png)
+![Graduate Admission Predictor](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/1e4753cf-d0aa-4e61-ac21-a3ca72c032a6)
 
 Welcome to Graduate Admission Predictor! 🌈🎉
 
