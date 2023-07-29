@@ -55,7 +55,8 @@ Curious to see our Graduate Admission Predictor in action? Watch our mesmerizing
 
 The moment of truth has arrived! Enter your GRE Score, TOEFL Score, CGPA, and other details, and let our predictor unveil your admission chances! 🚀🔮
 
-![Prediction](link-to-prediction-image.png)
+![Prediction](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/654ddef2-dbf9-40d2-967b-60036fb9163a)
+
 
 ## How to Use 📝🤔
 
