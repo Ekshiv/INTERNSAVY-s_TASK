@@ -69,10 +69,13 @@ def main():
         admission_chance = predict_admission_chance(best_model, scaler, user_input_df)
 
         # Display the result
-        st.success(f"\nPredicted Chance of Admit: {admission_chance:.4f}")
+        if admission_chance > 0.6:
+            st.success(''' 👏 Congrats you are **Accepted** 🎉''')
+        else:
+            st.error('''😞 Sorry you are **Rejected**''')
 
     # Display user-inputted values as tabular data in the center
-    st.write("\n\n**User-Inputted Values**")
+    st.write("\n\n**Your Submitted Values**")
     st.dataframe(user_input_df)
 
 if __name__ == "__main__":
