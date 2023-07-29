@@ -49,13 +49,21 @@ Explore the captivating visualizations generated during our EDA phase! Witness t
 
 Curious to see our Graduate Admission Predictor in action? Watch our mesmerizing demo video to witness its magic firsthand! 🎬🌟
 
-[![Demo Video](link-to-demo-video-thumbnail.png)](link-to-demo-video)
+![Demo Video](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/55fd7a2c-c6a1-43f0-b0a5-8025b4ca9d55)
+
+https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/9194b186-2d3e-4acb-96d5-5e635d4a4f02
+
+
 
 ## Prediction Results 🎯🔮
 
 The moment of truth has arrived! Enter your GRE Score, TOEFL Score, CGPA, and other details, and let our predictor unveil your admission chances! 🚀🔮
 
 ![Prediction](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/654ddef2-dbf9-40d2-967b-60036fb9163a)
+
+
+
+
 
 
 ## How to Use 📝🤔
