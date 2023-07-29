@@ -19,7 +19,7 @@ Here are some of the key takeaways from our EDA:
 - The University Rating and Statement of Purpose (SOP) Score also have significant impacts. 🎓📋
 - Research experience can be a game-changer! 🧪🔬
 
-![Important Features](X:\Internship\INTERNSAVY-s_TASK\Task-1\feature_importance.png)
+![Important Features](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/67f19398-bbde-43ad-b09a-aed300d7b4cd)
 
 ## Model Building 🧠🏗️
 
@@ -31,15 +31,19 @@ After rigorous experimentation and evaluation, we selected the best-performing m
 
 Drumroll, please! 🥁 The best model we crafted achieved an impressive accuracy rate of 81.88% on our validation set! This means you can trust its predictions to guide your aspirations. 🎯📊
 
-![Model Performance](X:\Internship\INTERNSAVY-s_TASK\Task-1\model_performance.png)
+![Model Performance](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/132084d0-54de-463d-942c-3ff2d3f08456)
+
 
 ## EDA Plots 📊📈
 
 Explore the captivating visualizations generated during our EDA phase! Witness the trends, correlations, and fascinating patterns that we discovered. 🌌🔍
 
-![Correlation Among Columns](X:\Internship\INTERNSAVY-s_TASK\Task-1\correlation.png)
-![Density Distribution of GRE and TOEFL score](X:\Internship\INTERNSAVY-s_TASK\Task-1\gre&toefl.png)
-![University Rating vs Chance of Admit](X:\Internship\INTERNSAVY-s_TASK\Task-1\urVScoa.png)
+![Correlation Among Columns](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/cee49b31-5102-490d-a399-b5f3139a39e1)
+
+![Density Distribution of GRE and TOEFL score](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/0259b507-ecdb-4f23-9e87-b4813138ea0a)
+
+![University Rating vs Chance of Admit](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/f4c9f1f4-e058-4b0f-812c-8f287e43c481)
+
 
 ## Demo Video 🎥📹
 
