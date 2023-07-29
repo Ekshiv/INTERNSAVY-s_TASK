@@ -1,6 +1,6 @@
 🎓 Graduate Admission Predictor 🎓
 
-![Graduate Admission Predictor](link-to-project-image.png)
+![Graduate Admission Predictor](X:\Internship\INTERNSAVY-s_TASK\Task-1\graduation-ceremony.png)
 
 Welcome to Graduate Admission Predictor! 🌈🎉
 
@@ -19,6 +19,8 @@ Here are some of the key takeaways from our EDA:
 - The University Rating and Statement of Purpose (SOP) Score also have significant impacts. 🎓📋
 - Research experience can be a game-changer! 🧪🔬
 
+![Important Features](X:\Internship\INTERNSAVY-s_TASK\Task-1\feature_importance.png)
+
 ## Model Building 🧠🏗️
 
 With a clear understanding of the data, we dived into the realm of model building! 🏗️💡 Our goal was to develop a powerful predictive model that can accurately assess your chances of getting into your desired graduate program.
@@ -29,13 +31,15 @@ After rigorous experimentation and evaluation, we selected the best-performing m
 
 Drumroll, please! 🥁 The best model we crafted achieved an impressive accuracy rate of 81.88% on our validation set! This means you can trust its predictions to guide your aspirations. 🎯📊
 
+![Model Performance](X:\Internship\INTERNSAVY-s_TASK\Task-1\model_performance.png)
+
 ## EDA Plots 📊📈
 
 Explore the captivating visualizations generated during our EDA phase! Witness the trends, correlations, and fascinating patterns that we discovered. 🌌🔍
 
-![EDA Plot 1](link-to-eda-plot-1.png)
-![EDA Plot 2](link-to-eda-plot-2.png)
-![EDA Plot 3](link-to-eda-plot-3.png)
+![Correlation Among Columns](X:\Internship\INTERNSAVY-s_TASK\Task-1\correlation.png)
+![Density Distribution of GRE and TOEFL score](X:\Internship\INTERNSAVY-s_TASK\Task-1\gre&toefl.png)
+![University Rating vs Chance of Admit](X:\Internship\INTERNSAVY-s_TASK\Task-1\urVScoa.png)
 
 ## Demo Video 🎥📹
 
