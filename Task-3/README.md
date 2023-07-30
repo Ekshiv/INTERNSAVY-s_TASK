@@ -1,6 +1,7 @@
 ## 🚀 Customer Segment Analysis using Python 📊
 
-![Segment Analysis](https://example.com/segment-analysis.jpg)
+![Customer segment Analysis](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/d83431ab-2f8b-48d5-859b-134353bd4b4b)
+
 
 💡 Introduction 💡
 
@@ -10,8 +11,14 @@ Welcome to the "Customer Segment Analysis using Python" project! 🎉 In this ex
 
 Here's a brief overview of what we did in each segment of our analysis:
 
-1️⃣ **Data Exploration**: We started by loading the dataset and gaining an understanding of its structure and content. We performed exploratory data analysis (EDA) to visualize relationships between variables and gain insights into customer characteristics. Few EDA plots are as follows:
+1️⃣ **Data Exploration**: We started by loading the dataset and gaining an understanding of its structure and content. We performed exploratory data analysis (EDA) to visualize relationships between variables and gain insights into customer characteristics. A few EDA plots are as follows:
 
+![Age Distribution Plot](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/2447e337-37d5-45ab-8730-864c171168f9)
+
+![Income Distribution Plot](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/3b5308b4-ff4c-4b2b-a167-fe3b123bcc37)
+
+
+![Gender Distribution Plot](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/891cad97-2975-43aa-93bf-25a5601408a4)
 
 2️⃣ **Data Preprocessing**: We preprocessed the data by converting the 'Genre' column to numerical values (0 for Male and 1 for Female) and normalizing numerical variables (Age, Annual Income, and Spending Score) to bring them to the same scale.
 
@@ -31,13 +38,13 @@ We utilized the K-Means clustering algorithm to build our customer segmentation 
 
 Here is the Elbow plot that helped us determine the optimal number of clusters:
 
-![Elbow Plot](https://example.com/elbow-plot.jpg)
+![Elbow Plot](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/8a93243d-286b-41b2-9268-674b8229af62)
 
 📊 Visualizing Clusters Room 📊
 
 The scatter plot below illustrates how customers are grouped into distinct clusters based on their Annual Income and Spending Score:
 
-![Cluster Scatter Plot](https://example.com/cluster-scatter-plot.jpg)
+![Cluster Scatter Plot](https://github.com/Ekshiv/INTERNSAVY-s_TASK/assets/99724929/85757a91-cf08-4a6e-969b-552dc35b299a)
 
 📝 Findings and Insights 📝
 
@@ -61,7 +68,7 @@ Our "Customer Segment Analysis using Python" project has empowered us to underst
 
 📞 Contact Us 📞
 
-If you have any questions or want to collaborate, feel free to reach out to us! 📧✉️
+If you have any questions or want to collaborate, feel free to reach out to us! [📧](ekshiv1896@gmail.com)
 
 📜 License 📜
 
@@ -69,7 +76,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 🔗 Useful Links 🔗
 
-- [Project Repository](https://github.com/your-username/customer-segment-analysis)
-- [Dataset Source](https://example.com/dataset)
+- [Project Repository](https://github.com/Ekshiv/INTERNSAVY-s_TASK)
+- [Dataset Source](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 🙏 We sincerely hope you find this project insightful and valuable for your data analysis endeavors! 🙏
