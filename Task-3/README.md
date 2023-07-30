@@ -10,7 +10,8 @@ Welcome to the "Customer Segment Analysis using Python" project! 🎉 In this ex
 
 Here's a brief overview of what we did in each segment of our analysis:
 
-1️⃣ **Data Exploration**: We started by loading the dataset and gaining an understanding of its structure and content. We performed exploratory data analysis (EDA) to visualize relationships between variables and gain insights into customer characteristics.
+1️⃣ **Data Exploration**: We started by loading the dataset and gaining an understanding of its structure and content. We performed exploratory data analysis (EDA) to visualize relationships between variables and gain insights into customer characteristics. Few EDA plots are as follows:
+
 
 2️⃣ **Data Preprocessing**: We preprocessed the data by converting the 'Genre' column to numerical values (0 for Male and 1 for Female) and normalizing numerical variables (Age, Annual Income, and Spending Score) to bring them to the same scale.
 
